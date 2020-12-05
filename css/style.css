@@ -35,14 +35,14 @@ color: #004D40;
   color: #004D40;
   border-radius: 50%;
   transition: all 0.3s;
-  font-size: 0.9rem;
+  font-size: 1.3rem;
 }
 
 .social-link:hover,
 .social-link:focus {
-  background: #ffffff;
+  background: #dfdfdf;
   text-decoration: none;
-  color: #555;
+  color: #22bb92;
 }
 
 .img-thumbnail{
