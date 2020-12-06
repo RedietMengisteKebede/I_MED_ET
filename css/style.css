@@ -5,17 +5,17 @@ color: #004D40;
 }
  
 /*009970*/
-.navbar{
+/*.navbar-light{
 
   color: #009970;
-/*#4caf50*/
-}
+/*#4caf50
+}*/
 
 /*..............................................footer...........................................*/
 .page-footer{
   padding-left: 30px;
   padding-top: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
   color: #004D40;
   font-size: small;
 }
@@ -47,7 +47,7 @@ color: #004D40;
 
 .img-thumbnail{
   width: 280px;
-  height: auto;
+  height: 200px;
 }
 .carousel-inner .carousel-item{
 height: 400px;
@@ -183,7 +183,7 @@ height: 400px;
 }
 
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.3)), url("https://blog.playo.co/wp-content/uploads/2017/01/yoga-4200x2208-sunrise-morning-beach-4k-1029.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.3)), url("https://blog.playo.co/wp-content/uploads/2017/01/yoga-4200x2208-sunrise-morning-beach-4k-1029.jpg")fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
